@@ -39,9 +39,9 @@
 
 ### 📊 GitHub
 [![Followers](https://img.shields.io/github/followers/gvijaikumar9?label=Followers&style=social)](https://github.com/gvijaikumar9?tab=followers)
+[![Stars](https://img.shields.io/github/stars/gvijaikumar9/SPFx-Intranet-Suite?label=SPFx%20Suite%20stars&style=social)](https://github.com/gvijaikumar9/SPFx-Intranet-Suite)
 
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvijaikumar9&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gvijaikumar9&layout=compact&hide_border=true&cache_seconds=86400)
+_My contribution graph and pinned projects are shown below._
 
 ### 🤝 Connect
 - 🌐 Blog: **[fivenumber.com](https://www.fivenumber.com)**
