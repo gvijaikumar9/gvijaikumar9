@@ -1,0 +1,22 @@
+# Auto-fills the "Latest from my blog" list in README.md from your blog RSS feed.
+# Runs on a schedule and on manual trigger. Needs the BLOG-POST-LIST markers in README.md.
+name: Update blog posts in README
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # daily at 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pull latest blog posts into README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.fivenumber.com/feed/"
+          max_post_count: 6
