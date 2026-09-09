@@ -7,7 +7,7 @@
 - 🏗️ Digital workplace architect working across **Microsoft 365, SharePoint, and Microsoft 365 Copilot**
 - 🏅 Former **Microsoft MVP** (SharePoint Server)
 - 🔍 I build free, open-source tools for **enterprise search, Microsoft Graph connectors, and Copilot governance**
-- 🧩 Contributor to the **Microsoft 365 & Power Platform (PnP) community** — sample published in the PnP gallery
+- 🧩 Contributor to the **Microsoft 365 & Power Platform (PnP) community** — my [**Content Rollup** web part sample](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/pnp-sp-dev-spfx-web-parts-react-content-rollup/) is published in the Microsoft sample gallery ([source](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-content-rollup)), with more submissions in review
 - ✍️ I write at **[fivenumber.com](https://www.fivenumber.com)** and publish the **[Copilot, Governed](https://www.linkedin.com/newsletters/copilot-governed-7490286418557251584/)** newsletter on LinkedIn
 - 📦 Published **[`@gvijaikumar9/m365-governed-mcp`](https://www.npmjs.com/package/@gvijaikumar9/m365-governed-mcp)** on npm — a governance-first Microsoft 365 / SharePoint MCP server
 - 💬 Ask me about **Copilot oversharing, enterprise search, SPFx, and PnP PowerShell**
