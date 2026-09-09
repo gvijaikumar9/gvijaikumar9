@@ -12,16 +12,25 @@
 - 📦 Published **[`@gvijaikumar9/m365-governed-mcp`](https://www.npmjs.com/package/@gvijaikumar9/m365-governed-mcp)** on npm — a governance-first Microsoft 365 / SharePoint MCP server
 - 💬 Ask me about **Copilot oversharing, enterprise search, SPFx, and PnP PowerShell**
 
-### 🧰 Tools I've built and open-sourced
+### 🧰 Open-source tools
 | Project | What it does |
 |---|---|
 | [CopilotGovernance](https://github.com/gvijaikumar9/CopilotGovernance) | PowerShell module to *see what Copilot will see* — surface oversharing before you switch Copilot on |
+| [User Access Explorer](https://github.com/gvijaikumar9/UserAccessExplorer) | Audit effective access two ways — by user and by site — across SharePoint |
+| [Sharing Link Auditor](https://github.com/gvijaikumar9/SharingLinkAudit) | Find broad, anonymous, and org-wide sharing links across a tenant |
 | [Microsoft Search Query Tool](https://github.com/gvijaikumar9/MicrosoftSearchQueryTool) | Query SharePoint, OneDrive, and Copilot connectors through the Microsoft Graph Search API |
 | [M365 Metrics Monitor](https://github.com/gvijaikumar9/M365MetricsMonitor) | Local Microsoft 365 admin dashboard (.NET, app-only Graph) |
-| [SPFx Intranet Suite](https://github.com/gvijaikumar9/SPFx-Intranet-Suite) | 21 open-source SharePoint Framework web parts for modern intranets |
+| [SPFx Intranet Suite](https://github.com/gvijaikumar9/SPFx-Intranet-Suite) | 21 SharePoint Framework web parts for modern intranets |
 | [m365-governed-mcp](https://github.com/gvijaikumar9/m365-governed-mcp) | Security-trimmed Model Context Protocol server for Microsoft 365 |
-| [Full Page Capture](https://chromewebstore.google.com/detail/eopejcimmapfcoinpiajoloeldhlklpg) | Chrome extension for full-page screenshots, including SharePoint inner-scroll |
-| [fivenumber-tools](https://github.com/gvijaikumar9/fivenumber-tools) | Free browser tools for SharePoint and Microsoft 365 admins |
+| [fivenumber-tools](https://github.com/gvijaikumar9/fivenumber-tools) | Source for the free browser tools at tools.fivenumber.com |
+
+### 🌐 Free tools & products
+| Tool | Where to find it |
+|---|---|
+| **PnP PowerShell Command Generator** | [tools.fivenumber.com/pnp-generator](https://tools.fivenumber.com/pnp-generator) |
+| **Browser tools & converters** for Microsoft 365 | [tools.fivenumber.com](https://tools.fivenumber.com) |
+| **Full Page Capture** (Chrome extension) | [Chrome Web Store](https://chromewebstore.google.com/detail/eopejcimmapfcoinpiajoloeldhlklpg) |
+| **Five Number Lightbox** (WordPress plugin) | [WordPress.org plugin directory](https://wordpress.org/plugins/five-number-lightbox/) |
 
 ### ✍️ Latest from my blog
 <!-- BLOG-POST-LIST:START -->
@@ -29,8 +38,10 @@
 📖 More at **[fivenumber.com](https://www.fivenumber.com)**
 
 ### 📊 GitHub
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvijaikumar9&show_icons=true&count_private=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gvijaikumar9&layout=compact&hide_border=true)
+[![Followers](https://img.shields.io/github/followers/gvijaikumar9?label=Followers&style=social)](https://github.com/gvijaikumar9?tab=followers)
+
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvijaikumar9&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gvijaikumar9&layout=compact&hide_border=true&cache_seconds=86400)
 
 ### 🤝 Connect
 - 🌐 Blog: **[fivenumber.com](https://www.fivenumber.com)**
