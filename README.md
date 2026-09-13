@@ -9,6 +9,7 @@
 - 🔍 I build free, open-source tools for **enterprise search, Microsoft Graph connectors, and Copilot governance**
 - 🧩 Contributor to the **Microsoft 365 & Power Platform (PnP) community**: my [**Content Rollup** web part](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/pnp-sp-dev-spfx-web-parts-react-content-rollup/) and two SharePoint access-audit scripts are merged into the official sample galleries — one of which the Microsoft 365 & Power Platform Community recently featured — and a versatile **List Dashboard** web part is [in review](https://github.com/pnp/sp-dev-fx-webparts/pull/6568)
 - 🆕 Latest: **List Dashboard**, an SPFx web part that turns any SharePoint list into a dashboard (stat, KPI tiles, bar, column, pie, donut, line, area, table) with **no Power BI licence needed**. Shipped in my [SPFx Intranet Suite v1.1.0](https://github.com/gvijaikumar9/SPFx-Intranet-Suite/releases/tag/v1.1.0)
+- 🧑‍💻 New on the **PowerShell Gallery**: [**SPSchemaCompare**](https://github.com/gvijaikumar9/SPSchemaCompare) (a side-by-side schema diff for SharePoint) and [**PowerShellBookmark**](https://github.com/gvijaikumar9/PowerShellBookmark) (save, recall, and run your favourite commands)
 - ✍️ I write at **[fivenumber.com](https://www.fivenumber.com)** and publish the **[Copilot, Governed](https://www.linkedin.com/newsletters/copilot-governed-7490286418557251584/)** newsletter on LinkedIn
 - 📦 Published **[`@gvijaikumar9/m365-governed-mcp`](https://www.npmjs.com/package/@gvijaikumar9/m365-governed-mcp)** on npm — a governance-first Microsoft 365 / SharePoint MCP server
 - 💬 Ask me about **Copilot oversharing, enterprise search, SPFx, and PnP PowerShell**
@@ -19,10 +20,12 @@
 | [CopilotGovernance](https://github.com/gvijaikumar9/CopilotGovernance) | PowerShell module to *see what Copilot will see* — surface oversharing (Everyone/EEEU, sharing links, guests) across a whole tenant before you turn Copilot on |
 | [User Access Explorer](https://github.com/gvijaikumar9/UserAccessExplorer) | Audit effective access two ways — by user and by site — across SharePoint |
 | [Sharing Link Auditor](https://github.com/gvijaikumar9/SharingLinkAudit) | Find broad, anonymous, and org-wide sharing links across a tenant |
+| [SPSchemaCompare](https://github.com/gvijaikumar9/SPSchemaCompare) | A side-by-side schema diff for SharePoint — what drifted between two sites (or a baseline vs live), with app-only auth for CI. Also on the PowerShell Gallery |
 | [Microsoft Search Query Tool](https://github.com/gvijaikumar9/MicrosoftSearchQueryTool) | Query SharePoint, OneDrive, and Copilot connectors through the Microsoft Graph Search API |
 | [M365 Metrics Monitor](https://github.com/gvijaikumar9/M365MetricsMonitor) | Local Microsoft 365 admin dashboard (.NET, app-only Graph) |
 | [SPFx Intranet Suite](https://github.com/gvijaikumar9/SPFx-Intranet-Suite) | SharePoint Framework web parts for modern intranets, now with a **List Dashboard** that builds charts and KPIs from any list (v1.1.0) |
 | [m365-governed-mcp](https://github.com/gvijaikumar9/m365-governed-mcp) | Security-trimmed Model Context Protocol server for Microsoft 365 |
+| [PowerShellBookmark](https://github.com/gvijaikumar9/PowerShellBookmark) | Save, recall, and run your favourite command-line commands — bookmark by name or from history, recall with a fuzzy picker or tab-completion. On the PowerShell Gallery |
 | [fivenumber-tools](https://github.com/gvijaikumar9/fivenumber-tools) | Source for the free browser tools at tools.fivenumber.com |
 
 ### 🌐 Free tools & products
