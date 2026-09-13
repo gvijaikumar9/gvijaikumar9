@@ -38,12 +38,12 @@
 
 ### ✍️ Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- [Bookmark your favourite PowerShell commands](https://www.fivenumber.com/bookmark-your-favourite-powershell-commands/)
 - [Build a dashboard from a SharePoint list without Power BI](https://www.fivenumber.com/build-a-dashboard-from-a-sharepoint-list-without-power-bi/)
 - [SharePoint HTML pages are coming, here is what actually works today](https://www.fivenumber.com/sharepoint-html-pages-are-coming-here-is-what-actually-works-today/)
 - [An announcements ticker web part for SharePoint](https://www.fivenumber.com/an-announcements-ticker-web-part-for-sharepoint/)
 - [A chart web part for a SharePoint list without Power BI](https://www.fivenumber.com/a-chart-web-part-for-a-sharepoint-list-without-power-bi/)
 - [A weather web part for SharePoint with no API key](https://www.fivenumber.com/a-weather-web-part-for-sharepoint-with-no-api-key/)
-- [A kudos and recognition web part for SharePoint](https://www.fivenumber.com/a-kudos-and-recognition-web-part-for-sharepoint/)
 <!-- BLOG-POST-LIST:END -->
 📖 More at **[fivenumber.com](https://www.fivenumber.com)**
 
