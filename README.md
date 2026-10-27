@@ -39,12 +39,12 @@
 
 ### ✍️ Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- [How to check an SPFx package before you approve it](https://www.fivenumber.com/check-spfx-package-before-you-approve-it/)
 - [Entra does not email you when an app client secret expires](https://www.fivenumber.com/entra-does-not-email-you-when-a-client-secret-expires/)
 - [MCP vs REST API: what actually changes for a Microsoft 365 admin](https://www.fivenumber.com/mcp-vs-rest-api-what-actually-changes-for-a-microsoft-365-admin/)
 - [Bookmark your favourite PowerShell commands](https://www.fivenumber.com/bookmark-your-favourite-powershell-commands/)
 - [Build a dashboard from a SharePoint list without Power BI](https://www.fivenumber.com/build-a-dashboard-from-a-sharepoint-list-without-power-bi/)
 - [SharePoint HTML pages are coming, here is what actually works today](https://www.fivenumber.com/sharepoint-html-pages-are-coming-here-is-what-actually-works-today/)
-- [An announcements ticker web part for SharePoint](https://www.fivenumber.com/an-announcements-ticker-web-part-for-sharepoint/)
 <!-- BLOG-POST-LIST:END -->
 📖 More at **[fivenumber.com](https://www.fivenumber.com)**
 
