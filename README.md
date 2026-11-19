@@ -44,12 +44,12 @@
 
 ### ✍️ Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- [A governance-first MCP server for Microsoft 365 and SharePoint](https://www.fivenumber.com/governance-first-m365-mcp-server/)
+- [Keep SharePoint page view history beyond 90 days](https://www.fivenumber.com/keep-sharepoint-page-view-history-beyond-90-days/)
 - [See what is using your SharePoint storage, down to the file](https://www.fivenumber.com/see-what-is-using-your-sharepoint-storage/)
 - [An org chart web part for SharePoint](https://www.fivenumber.com/an-org-chart-web-part-for-sharepoint/)
 - [How to check an SPFx package before you approve it](https://www.fivenumber.com/check-spfx-package-before-you-approve-it/)
 - [Entra does not email you when an app client secret expires](https://www.fivenumber.com/entra-does-not-email-you-when-a-client-secret-expires/)
-- [MCP vs REST API: what actually changes for a Microsoft 365 admin](https://www.fivenumber.com/mcp-vs-rest-api-what-actually-changes-for-a-microsoft-365-admin/)
-- [Bookmark your favourite PowerShell commands](https://www.fivenumber.com/bookmark-your-favourite-powershell-commands/)
 <!-- BLOG-POST-LIST:END -->
 📖 More at **[fivenumber.com](https://www.fivenumber.com)**
 
